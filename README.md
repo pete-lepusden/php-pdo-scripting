@@ -9,7 +9,7 @@ Documentation coming soon.
 Current version assumes a mysql/mariadb sql server is available.
 
 # Install
-To install simply pull the pdogen folder.
+To install simply pull the pdogen folder and make any changes to the Dao.php script necessary to connect to your database server.
 
 # Acknowledgment
 This script is based on a script found here https://mwoodruff.net/articles/automation/time-saving-php-pdo-code-generator/
